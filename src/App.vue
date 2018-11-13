@@ -22,4 +22,15 @@
     color #2c3e50
     &.router-link-exact-active
       color #42b983
+
+.el-table 
+  th
+    color #409eff
+  tbody 
+    tr
+      td
+        padding 0
+        height 40px
+        box-sizing border-box
+  
 </style>
